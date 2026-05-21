@@ -23,7 +23,7 @@ I build **robust, maintainable, production-ready applications** with a focus on 
 ---
 
 ## 📂 Projects
-This GitLab hosts **personal projects, training exercises, and proofs of concept**, all following **real-world standards** and **good engineering practices**.
+This Github hosts **personal projects, training exercises, and proofs of concept**, all following **real-world standards** and **good engineering practices**.
 
 ---
 
