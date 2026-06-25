@@ -16,7 +16,7 @@ I build **robust, maintainable, production-ready applications** with a focus on 
 
 ## Tech Stack
 **Backend:** Java, Spring Boot, Spring Security, Spring MVC, OpenAPI Generator  
-**Frontend:** Flutter  
+**Frontend:** Flutter, Vue.js  
 **Databases:** PostgreSQL, Oracle  
 **Testing & DevOps:** JUnit, Mockito, Docker, GitLab CI/CD, Maven
 
@@ -29,5 +29,5 @@ This Github hosts **personal projects, training exercises, and proofs of concept
 
 ## Experience
 **Permanent Software Engineer – Sopra Steria**  
-**3 years** of experience through apprenticeship  
+**4 years** of experience
 Currently working on **industrial Java applications** as a full-time Software Engineer
