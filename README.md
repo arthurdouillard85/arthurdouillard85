@@ -29,5 +29,5 @@ This Github hosts **personal projects, training exercises, and proofs of concept
 
 ## Experience
 **Permanent Software Engineer – Sopra Steria**  
-**4 years** of experience
+**4 years** of experience  
 Currently working on **industrial Java applications** as a full-time Software Engineer
